@@ -186,7 +186,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/3342774_orig-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3342774-orig-2000x2000.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -214,7 +214,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/3365062_orig-2000x1402.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3365062-orig-2000x1402.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -228,7 +228,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/5928187_orig-2000x1453.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5928187-orig-2000x1453.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1404,7 +1404,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1198849_orig-1400x677.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1198849-orig-1400x677.jpg",
               "link": "OurShowroom.html#msg-box6-4",
               "alt": "",
               "title": "",
