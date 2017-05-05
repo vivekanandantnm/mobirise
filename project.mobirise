@@ -155,8 +155,8 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/8100428-orig-2000x1588.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/1325437-orig-2000x1587.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -169,8 +169,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header2-2\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header6-3\" data-toolbar=\"-mbrBtnMove\">ABOUT US</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/4309936-orig-2000x1642.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/7187134-orig-2000x1495.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
