@@ -491,6 +491,9 @@ h6,
 #features1-f .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
+#msg-box1-g H2 {
+  color: #ffffff;
+}
 #header3-i .mbr-section-title,
 #header3-i .mbr-section-subtitle {
   text-align: center;

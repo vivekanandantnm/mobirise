@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SRI VADIVELAN STORES</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WELCOME TO OUR SITE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-2\">A SHORT INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header6-3\">MORE ABOUT US</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurShowroom.html\" aria-expanded=\"false\">OUR SHOWROOM DETAILS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"#top\">HOME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WELCOME TO OUR SITE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-2\">A SHORT INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header6-3\">MORE ABOUT US</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-e\" aria-expanded=\"false\">PRODUCTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-i\" aria-expanded=\"false\">ADVANTAGES OF OUR SHOWROOM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurShowroom.html\" aria-expanded=\"false\">OUR SHOWROOM DETAILS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"#top\">HOME</a></li>"
         },
         {
           "_name": "footer1",
@@ -522,7 +522,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#c0a375",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -536,9 +536,14 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://srivadivelanstores.co.nr/products\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://srivadivelanstores.co.nr/products\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
           "text": "We just listed only our major products above, to view the&nbsp;",
-          "title": "COMPLETE PRODUCT CATLOGUE"
+          "title": "COMPLETE PRODUCT CATLOGUE",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
