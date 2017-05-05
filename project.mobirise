@@ -440,7 +440,7 @@
           "title1": "Kitchen Utensils",
           "subtitle1": "",
           "caption1": "We sell all types of kitchen utensils used for cooking and storage purposes. We sell Stainless steel, Brass, Copper vessels",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://srivadivelanstores.co.nr/products\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/designer-wooden-cot-250x250.jpg",
@@ -456,7 +456,7 @@
           "title2": "Funiture Items",
           "subtitle2": "",
           "caption2": "We sell major wooden and iron furniture items like Wooden Cot, Wooden Beero, Iron Cot, Iron Beerow, Office Tables, Sofa sets and many more",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://srivadivelanstores.co.nr/products\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/sku-700-deluxeplusalu7ltr.jpg",
@@ -472,7 +472,7 @@
           "title3": "Appliances",
           "subtitle3": "",
           "caption3": "We sell all types of Kitchen Appliances like Pressure Cookers, Pressure Pan, Non Stick Cookwares, LPG Stoves, Mixer Grinder, Wet Grinder and many more",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://srivadivelanstores.co.nr/products\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
