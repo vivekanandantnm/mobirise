@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "OurShowroom.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -487,6 +487,63 @@
           "title": "DIRECTIONS",
           "text": "1. Come out from bus stand and keep walking straight as indicated in the above picture - GREEN ARROW. (Do not cross the central median)<br>2. After few steps, you'll find Krishna Sweets and Bakery. Walk Ahead.<br>3. Just next to it, you'll find Poorvika mobile showroom. Walk Ahead.<br>4. Cross the traffic signal. After few steps, there will be two roads in left and right sides. Take right side road (Thiruvannamalai - Avalaurpet main road). You'll find Arivoli park at the left side corner. Walk Ahead straight.<br>5. When you find Mount Saint Joseph School on your right side, cross the road and keep walking straight on the left side.<br>6. After few steps you'll find Ulagamapuram Vellan Chettiyar Marriage Hall on your left side.<br>7. Just Crossing 2-3 buildings, you'll find your destination SRI VADIVELAN STORES, which is straight opposite to Durga Saw mill.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.google.co.in/maps/place/Sri+Vadivelan+Stores/@12.2448239,79.0749784,15z/data=!4m5!3m4!1s0x0:0x75b7073b92e1bc5!8m2!3d12.2448239!4d79.0749784\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LOCATE US ON GOOGLE MAP</a>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-6",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "EXPLAINER VIDEO",
+          "text": "Here, we given a video explains how to reach our showroom",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     }
