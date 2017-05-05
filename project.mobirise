@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 35,
+    "uniqCompNum": 37,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true"
@@ -546,6 +546,101 @@
           }
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-z",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -916,6 +1011,143 @@
           "title": "SPECIAL OFFERS",
           "text": "<p>Sri Vadivelan Stores announce special offers often. Please be in touch with us and do not miss those attractive offers. To know our latest offers/schems</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://srivadivelanstores.blogspot.in/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "testimonial": [
+            {
+              "text": "<p>I going to save 15% on each of my next 5 purchases @ Sri Vadivelan Stores under DIWALI DHAAM DHOOM Offer. Really a nice offer.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/3729.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Kamalakannan Udhayamoorthy",
+              "authorBio": "Customer-Google Review"
+            },
+            {
+              "text": "<p>Good shop in Tiruvannamalai with reasonable price and excellent customer service</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/3729.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Elanchezhiyan Parama",
+              "authorBio": "Customer-Google Review"
+            },
+            {
+              "text": "<p>I bought a LG Refrigerator and Videocon Washing Machine here. Sri Vadivelan Stores has the lowest price for those 2 products above mentioned in Tiruvannamalai compared to the 7 stores I've enquired. They satisfied me a lot in Price, Service and Quality. As a customer, my advise is to maximize your stock(Varieties) in Washing Machine.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/3729.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Vinod Kumar",
+              "authorBio": "Customer-Google Review"
+            },
+            {
+              "text": "<p>நான் எனது தங்கையின் திருமணத்திற்கு கட்டில்,மெத்தை,பீரோ,பாத்திரங்கள் என மொத்தம் 101 பொருட்களை 25,000 ரூபாய்க்கு வாங்கினேன். இந்த விலையில் நான் வாங்கிய அனைத்து பொருட்களும் மிக மிக தரமாக இருந்தது. ஸ்ரீ வடிவேலன் ஸ்டோர்-க்கு நன்றி.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/3729.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Suriya Prakash",
+              "authorBio": "Customer-Google Review"
+            },
+            {
+              "text": "<p>Nice Showroom, with a beautiful display of products and with affordable price. Best in class Customer Service. Must add more varieties under some categories like Induction Stoves and LPG's. An Awesome shopping Xperience</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/3729.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Lakshman Krishnan",
+              "authorBio": "Customer-Facebook Review"
+            },
+            {
+              "text": "<p>Temple ware items are awesome and with reasonable price</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/3729.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Aravindan Barathan",
+              "authorBio": "Customer-Facebook Reeview"
+            }
+          ],
+          "_anchor": "testimonials2-10",
+          "_params": {
+            "count": "6",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": true
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Your reviews also will apper here. Please post your valuable reviews at our official Facebook page and Google Page"
         },
         {
           "_tags": [
