@@ -472,3 +472,9 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#header6-1 .mbr-section-title {
+  color: #28262b;
+}
+#header6-1 .mbr-section-text {
+  color: #565656;
+}
