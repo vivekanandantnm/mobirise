@@ -494,6 +494,10 @@ h6,
 #msg-box1-g H2 {
   color: #ffffff;
 }
+#header3-11 .mbr-section-title,
+#header3-11 .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-i .mbr-section-title,
 #header3-i .mbr-section-subtitle {
   text-align: center;
