@@ -551,3 +551,14 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#msg-box6-4 .mbr-section-title,
+#msg-box6-4 .lead p {
+  color: #fff;
+}
+#header5-5 .mbr-section-title {
+  color: #000;
+}
+#header5-5 .mbr-section-lead {
+  color: #9c9a9a;
+  font-size: 16px;
+}
