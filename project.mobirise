@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 2,
+    "uniqCompNum": 3,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -167,6 +167,54 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-2",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
