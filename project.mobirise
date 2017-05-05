@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 13,
+    "uniqCompNum": 17,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true"
@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SRI VADIVELAN STORES</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-c\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WELCOME TO OUR SITE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-2\">A SHORT INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header6-3\">MORE ABOUT US</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurShowroom.html\" aria-expanded=\"false\">OUR SHOWROOM DETAILS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">HELP</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WELCOME TO OUR SITE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-2\">A SHORT INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header6-3\">MORE ABOUT US</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurShowroom.html\" aria-expanded=\"false\">OUR SHOWROOM DETAILS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"#top\">HOME</a></li>"
         },
         {
           "_name": "footer1",
@@ -370,6 +370,175 @@
           "title": "ABOUT US",
           "text": "OUR SHOWROOM SRI VADIVELAN STORES IS LOCATED IN AVALURPET MAIN ROAD, THIRUVANNAMALAI. NEARBY TO ULAGAMAPURAM VELLAN CHETTIYAR MARRIAGE HALL AND OPPOSITE TO DURGA SAW MILL. OUR SHOWROOM IS CONSTRUCTED NEARBY TO THE CENTRAL BUS TERMINAL. HENCE, YOU CAN REACH QUICKLY BY A SHORT WALK. OUR SHOWROOM INCLUDES GROUND FLOOR, FIRST FLOOR AND SECOND FLOOR (ON CONSTRUCTION). ITS A VAST, NEAT, CLEAN AND AIRY ENVIRONMENT WITH SPECTACULAR DISPLAYS OF PRODUCTS WHICH WILL BE VERY EASIER FOR OUR CUSTOMERS TO CHOOSE THEIR DESIRED PRODUCTS.<br>            EACH AND EVERY ITEMS DISPLAYED SO CLEARLY AND WITH THE LOWEST PRICE MENTIONED SO CLEARLY ON IT. SO THAT WE MAKE THE SHOPPING SO EASIER TO OUR CUSTOMERS. <br>            A BEST SHOWROOM IN THIRUVANNAMALAI FOR PURCHASING MARRIAGE GIFTS FOR BRIDAL AND ELECTRONICS, FURNITURE ITEMS AND OTHER HOME APPLIANCES.<br>            WE PROVIDE STAINLESS STEEL, BRASS, COPPER AND ALUMINIUM VESSELS FOR HOME NEEDS AND ALSO FOR HOTELS AND CATERING SERVICE. WE PROVIDE ALL TEMPLE WARE ITEMS. PLASTIC ITEMS LIKE TABLES, CHAIRS ARE AVAILABLE WITH US IN SUPERIOR QUALITY FROM THE LEADING MANUFACTURERS.<br>            FURNITURE ITEMS LIKE WOODEN CUPBOARDS, WOODEN COT, TV STAND, DRESSING TABLE, OFFICE TABLE ARE AVAILABLE IN DIFFERENT SIZES AND RANGES. STEEL FURNITURES LIKE COT, BEROW ARE ALSO AVAILABLE WITH US FROM THE LEADING MANUFACTURERS.<br>            HOME APPLIANCES LIKE WATER HEATER, IRON BOX, ELECTRIC RICE COOKERS, ELECTRIC KETTLES, WET GRINDER, MIXER GRINDER, INDUCTION STOVES, REFRIGERATOR, WASHING MACHINE, TABLE FAN, CEILING FANS, PEDESTAL FAN ARE AVAILABLE WITH US.<br>            KITCHEN NEED COOKERY ITEMS LIKE PRESSURE COOKER, PRESSURE PAN, GAS STOVE, KEROSENE STOVE, JAR, TUMBLERS, SPOONS AND CONTAINERS ARE AVAILABLE WITH US IN WIDE RANGE.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"OurShowroom.html\" data-toolbar=\"-mbrBtnMove\">OUR SHOWROOM DETAILS</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Products",
+          "meta": "The major products we offer are listed below"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
+          "_anchor": "features1-f",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/8ff79908f23c5868d409675e0d2c3e32.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Kitchen Utensils",
+          "subtitle1": "",
+          "caption1": "We sell all types of kitchen utensils used for cooking and storage purposes. We sell Stainless steel, Brass, Copper vessels",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/designer-wooden-cot-250x250.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Funiture Items",
+          "subtitle2": "",
+          "caption2": "We sell major wooden and iron furniture items like Wooden Cot, Wooden Beero, Iron Cot, Iron Beerow, Office Tables, Sofa sets and many more",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sku-700-deluxeplusalu7ltr.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Appliances",
+          "subtitle3": "",
+          "caption3": "We sell all types of Kitchen Appliances like Pressure Cookers, Pressure Pan, Non Stick Cookwares, LPG Stoves, Mixer Grinder, Wet Grinder and many more",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-g",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.srivadivelanstores.co.nr/products\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "text": "We just listed only our major products above, to view the&nbsp;",
+          "title": "COMPLETE PRODUCT CATLOGUE"
         }
       ]
     },

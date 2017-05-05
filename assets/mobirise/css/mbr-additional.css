@@ -484,6 +484,13 @@ h6,
 #header6-3 .mbr-section-text {
   color: #565656;
 }
+#header3-e .mbr-section-title,
+#header3-e .mbr-section-subtitle {
+  text-align: center;
+}
+#features1-f .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
 #msg-box6-4 .mbr-section-title,
 #msg-box6-4 .lead p {
   color: #fff;
