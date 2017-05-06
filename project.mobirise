@@ -241,7 +241,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header2-2\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header6-3\" data-toolbar=\"-mbrBtnMove\">ABOUT US</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/lg-190-ltr-4-star-sdl115408632-1-2cc8e.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -253,6 +253,20 @@
                 "text": "We Provide Electronic items like Refrigerator, Washing Machine, Mixer Grinder, Wet Grinder, Electric Kettle, Water Heater, Electric Rice Cooker, Iorn Box and many more items",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header2-2\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header6-3\" data-toolbar=\"-mbrBtnMove\">ABOUT US</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/56553-o8srko.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "சீர்வரிசைத் திருவிழா",
+                "showText": true,
+                "text": "கட்டில்,மெத்தை,பீரோ உட்பட 101 பொருட்கள் அடங்கிய திருமண சீர்வரிசைப் பொருட்களை ரூ.28,999/-க்கு வாங்கிச் செல்வீர்.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://srivadivelanstores.co.nr/seervarisai\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KNOW MORE</a> "
               }
             ],
             "fullScreen": true,
@@ -260,7 +274,13 @@
             "showBullets": true
           },
           "_anchor": "slider3-c",
-          "articleLayout": false
+          "articleLayout": false,
+          "_styles": {
+            "P": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -515,6 +535,11 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box1-g",
           "_params": {
             "paddingTop": 3,
@@ -538,12 +563,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://srivadivelanstores.co.nr/products\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
           "text": "We just listed only our major products above, to view the&nbsp;",
-          "title": "COMPLETE PRODUCT CATLOGUE",
-          "_styles": {
-            "H2": {
-              "color": "#ffffff"
-            }
-          }
+          "title": "COMPLETE PRODUCT CATLOGUE"
         },
         {
           "_styles": {
@@ -1199,6 +1219,9 @@
             "count": "6",
             "paddingTop": 3,
             "paddingBottom": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -1208,10 +1231,7 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
           "title": "WHAT OUR FANTASTIC USERS SAY",
           "subtitle": "Your reviews also will apper here. Please post your valuable reviews at our official Facebook page and Google Page"
@@ -1883,6 +1903,9 @@
             "count": "9",
             "paddingTop": "2",
             "paddingBottom": "0",
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr.jpg",
@@ -1892,10 +1915,7 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": true,
-            "showBio": false
+            "showSubtitle": false
           },
           "title": "TERMS AND CONDITIONS",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
