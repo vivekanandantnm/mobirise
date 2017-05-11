@@ -272,7 +272,7 @@
                 "showText": true,
                 "text": "கட்டில்,மெத்தை,பீரோ உட்பட 101 பொருட்கள் அடங்கிய திருமண சீர்வரிசைப் பொருட்களை ரூ.28,999/-க்கு வாங்கிச் செல்வீர்.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.nyw.io/viewer/vbid-cb15a-f5rt4wgj\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KNOW MORE</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.nyw.io/viewer/vbid-cb15a-f5rt4wgj\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a> "
               }
             ],
             "fullScreen": true,
