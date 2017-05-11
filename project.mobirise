@@ -150,6 +150,12 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "P": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -266,7 +272,7 @@
                 "showText": true,
                 "text": "கட்டில்,மெத்தை,பீரோ உட்பட 101 பொருட்கள் அடங்கிய திருமண சீர்வரிசைப் பொருட்களை ரூ.28,999/-க்கு வாங்கிச் செல்வீர்.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://srivadivelanstores.co.nr/seervarisai\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KNOW MORE</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.nyw.io/viewer/vbid-cb15a-f5rt4wgj\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KNOW MORE</a> "
               }
             ],
             "fullScreen": true,
@@ -274,13 +280,7 @@
             "showBullets": true
           },
           "_anchor": "slider3-c",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
