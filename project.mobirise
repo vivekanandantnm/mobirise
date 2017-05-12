@@ -276,7 +276,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/vgpcopperbeakers-onshelf.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vgpcopperbeakers-onshelf-1.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
