@@ -275,18 +275,32 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://srivadivelanstoresseervarisai.tk\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/vgpcopperbeakers-onshelf-1.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "செம்பு பாத்திரங்கள்&nbsp;",
+                "title": "COPPER VESSELS",
                 "showText": true,
-                "text": "உடல் நலத்திற்கு மிகவும் உகந்த செம்பு பாத்திரங்கள் அனைத்தும் மிகக் குறைந்த விலையில் கிடைக்கும்",
+                "text": "We offer healthy copper vessels at affordable price&nbsp;",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://srivadivelanstorescopper.tk\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/bulk-order.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "BULK ORDERS",
+                "showText": true,
+                "text": "We undertake bulk orders for personal and business needs. We provide LIVE TRACKING SYSTEM for your bulk orders",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.vivekanadantnm.gdk.mx/\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a> "
               }
             ],
             "fullScreen": true,
