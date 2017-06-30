@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true"
@@ -1125,7 +1125,7 @@
           },
           "title": "SPECIAL OFFERS",
           "text": "<p>Sri Vadivelan Stores announce special offers often. Please be in touch with us and do not miss those attractive offers. To know our latest offers/schems</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://srivadivelanstoressploffers.tk\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://srivadivelanstoressploffers.tk\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>"
         },
         {
           "_tags": [
@@ -1265,105 +1265,6 @@
           "subtitle": "Your reviews also will apper here. Please post your valuable reviews at our official Facebook page and Google Page"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-w",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/1458986230.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "Sri Vadivelan Stores",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "(+91) 94886 07990,96291 10231, 94434 04951",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "29B/2A, Avalurpet Road<br>Near Ulagamapuram Vellan Chettiyar Marraige Hall<br>Tiruvannamalai-60601",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">s</a>rivadivelanstores@gmail.com",
-          "title1": "",
-          "text5": "SVS@2017",
-          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Landline Number</b></span></font><br>Landline: 04175-227990<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Contact Person</b></span></font><br>A.Vivekanandan<br>(Sales)<br>9629110231",
-          "form": {
-            "title": "MESSAGE",
-            "action": "vivekanandantnm@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
           "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
@@ -1404,6 +1305,105 @@
               "stateDetails": ""
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-13",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1458986230.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "SRI VADIVELAN STORES",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "(+91) 9443404951 , 9620110231,9442898506",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "29B/2A, Avalurpet Road<br>Tiruvannamalai - 606601",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"http://\">srivadivelanstores@gmail.com</a></p>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"index.html#header2-2\">Home</a></li><li><a href=\"index.html#header6-3\">About Us</a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"index.html#gallery1-z\">Gallery</a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"index.html#features1-f\">Products</a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"index.html#msg-box1-r\">Special Offers</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<strong>Landline Number</strong><br>04175 - 227990<br><br><br><strong>Landmark</strong><br>Near Ulagamapuram Vellan Chettiyar Marraige Hall, Opposite to Durga Saw Mill",
+          "form": {
+            "title": "MESSAGE",
+            "action": "vivekanandantnm@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         }
       ]
     },
