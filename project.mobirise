@@ -7,7 +7,7 @@
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#c0a375",
-        "secondaryColor": "#bfcecb",
+        "secondaryColor": "#ffffff",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
@@ -143,7 +143,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "PLEASE CLOSE THIS TAB/WINDOW AFTER GOING THROUGH<br>Copyright (c) 2017Sri Vadivelan Stores"
+          "text": "<span style=\"font-size: 0.8125rem; line-height: 1.5;\">Copyright (c) 2017Sri Vadivelan Stores</span><br>"
         },
         {
           "_tags": [
@@ -1330,8 +1330,8 @@
             }
           },
           "text4": "<a href=\"mailto:support@mobirise.com\">s</a>rivadivelanstores@gmail.com",
-          "title1": "Go To",
-          "text5": "<li>Introduction</li><li>About Us</li><li>Products we Offer</li><li>Advantages of SVS</li><li>Special Offers</li>",
+          "title1": "",
+          "text5": "SVS@2017",
           "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Landline Number</b></span></font><br>Landline: 04175-227990<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Contact Person</b></span></font><br>A.Vivekanandan<br>(Sales)<br>9629110231",
           "form": {
             "title": "MESSAGE",
