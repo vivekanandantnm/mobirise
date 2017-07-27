@@ -420,11 +420,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #7e9b9f;
+  color: #ffffff;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #7e9b9f;
+  color: #ffffff;
 }
 #menu-0 .link {
   font-size: 0.75rem;
@@ -441,22 +441,22 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #e6e6e6;
+  background: #0e0e0e;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #202020!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #282828;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #7e9b9f;
+  color: #ffffff;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -478,7 +478,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #7e9b9f;
+  background-color: #ffffff;
 }
 #slider3-c P {
   font-family: 'Droid Serif', serif;
@@ -499,6 +499,12 @@ h6,
 #msg-box1-g H2 {
   color: #ffffff;
 }
+#msg-box1-g .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-g .mbr-article {
+  color: #fff;
+}
 #header3-11 .mbr-section-title,
 #header3-11 .mbr-section-subtitle {
   text-align: center;
@@ -511,36 +517,135 @@ h6,
 #content5-h p {
   color: #fff;
 }
+#content5-h .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-h .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-h .mbr-article {
+  color: #fff;
+}
 #content5-j .mbr-section-title,
 #content5-j p {
+  color: #fff;
+}
+#content5-j .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-j .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-j .mbr-article {
   color: #fff;
 }
 #content5-k .mbr-section-title,
 #content5-k p {
   color: #fff;
 }
+#content5-k .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-k .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-k .mbr-article {
+  color: #fff;
+}
 #content5-l .mbr-section-title,
 #content5-l p {
+  color: #fff;
+}
+#content5-l .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-l .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-l .mbr-article {
   color: #fff;
 }
 #content5-m .mbr-section-title,
 #content5-m p {
   color: #fff;
 }
+#content5-m .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-m .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-m .mbr-article {
+  color: #fff;
+}
 #content5-n .mbr-section-title,
 #content5-n p {
+  color: #fff;
+}
+#content5-n .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-n .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-n .mbr-article {
   color: #fff;
 }
 #content5-o .mbr-section-title,
 #content5-o p {
   color: #fff;
 }
+#content5-o .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-o .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-o .mbr-article {
+  color: #fff;
+}
 #content5-p .mbr-section-title,
 #content5-p p {
   color: #fff;
 }
+#content5-p .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-p .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-p .mbr-article {
+  color: #fff;
+}
 #content5-q .mbr-section-title,
 #content5-q p {
+  color: #fff;
+}
+#content5-q .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-q .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-q .mbr-article {
   color: #fff;
 }
 #msg-box8-v .mbr-section-title,

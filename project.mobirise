@@ -47,10 +47,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#7e9b9f"
+              "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#7e9b9f"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -62,16 +62,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#0e0e0e"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#202020!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#7e9b9f",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -91,16 +91,16 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#7e9b9f"
+              "background-color": "#ffffff"
             }
           },
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#7e9b9f",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -205,7 +205,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header2-2\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header6-3\" data-toolbar=\"-mbrBtnMove\">ABOUT US</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/poompuhar-brass-temple-bell-sdl591809686.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -215,8 +215,8 @@
                 "title": "TEMPLE WARE",
                 "showText": true,
                 "text": "We offer all types of Temple ware and Pooja Items like Brass, Copper Kalasam, Brass Thiruvatchi, Temple Bells, Swamy Idols and many more items at the most lowest price, as we are the manufacturers of such items",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header2-2\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header6-3\" data-toolbar=\"-mbrBtnMove\">ABOUT US</a>"
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.nyw.io/viewer/vbid-7d3a9fd3-fjyptzx4\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a> "
               },
               {
                 "active": false,
@@ -289,7 +289,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://srivadivelanstorescopper.tk\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/bulk-order.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -315,6 +315,7 @@
             "Theme"
           ],
           "_name": "header2",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_anchor": "header2-2",
           "_params": {
             "imageSize": 50,
@@ -449,6 +450,9 @@
               "background-color": "#2e2e2e"
             }
           },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
           "_anchor": "features1-f",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -483,12 +487,16 @@
               "alt": "",
               "title": "",
               "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "title1": "Kitchen Utensils",
           "subtitle1": "",
           "caption1": "We sell all types of kitchen utensils used for cooking and storage purposes. We sell Stainless steel, Brass, Copper vessels",
-          "button1": "<a data-app-btn=\"true\" href=\"http://srivadivelanstores.co.nr/products\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://srivadivelanstores.co.nr/products\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/designer-wooden-cot-250x250.jpg",
@@ -499,12 +507,16 @@
               "alt": "",
               "title": "",
               "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "title2": "Funiture Items",
           "subtitle2": "",
           "caption2": "We sell major wooden and iron furniture items like Wooden Cot, Wooden Beero, Iron Cot, Iron Beerow, Office Tables, Sofa sets and many more",
-          "button2": "<a data-app-btn=\"true\" href=\"http://srivadivelanstores.co.nr/products\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://srivadivelanstores.co.nr/products\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/sku-700-deluxeplusalu7ltr.jpg",
@@ -515,48 +527,64 @@
               "alt": "",
               "title": "",
               "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "title3": "Appliances",
           "subtitle3": "",
           "caption3": "We sell all types of Kitchen Appliances like Pressure Cookers, Pressure Pan, Non Stick Cookwares, LPG Stoves, Mixer Grinder, Wet Grinder and many more",
-          "button3": "<a data-app-btn=\"true\" href=\"http://srivadivelanstores.co.nr/products\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://srivadivelanstores.co.nr/products\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -566,6 +594,12 @@
           "_styles": {
             "H2": {
               "color": "#ffffff"
+            },
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
             }
           },
           "_anchor": "msg-box1-g",
@@ -605,8 +639,8 @@
           "_name": "header3",
           "_anchor": "header3-11",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
           },
@@ -779,12 +813,26 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Since we are the manufacturer of brass vessels, we offer our products at very very lowest price in the market</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_anchor": "content5-h",
           "_params": {
             "paddingTop": "1",
@@ -804,12 +852,22 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "Lowest Price",
-          "caption": "<p>Since we are the manufacturer of brass vessels, we offer our products at very very lowest price in the market</p>"
+          "title": "Lowest Price"
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
               "color": "#fff"
             }
           },
@@ -817,6 +875,9 @@
             "Theme"
           ],
           "_name": "content5",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>The products we offer in our store are manufactured with lot of care and with superior quality which will last for yeras without any faults</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_anchor": "content5-j",
           "_params": {
             "paddingTop": "1",
@@ -836,12 +897,22 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "Quality Ensured",
-          "caption": "<p>The products we offer in our store are manufactured with lot of care and with superior quality which will last for yeras without any faults</p>"
+          "title": "Quality Ensured"
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
               "color": "#fff"
             }
           },
@@ -849,6 +920,9 @@
             "Theme"
           ],
           "_name": "content5",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Bulk orders given in our store will be delivered so fast within the due date mentioned in your order receipt without any time delay or damages</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_anchor": "content5-k",
           "_params": {
             "paddingTop": "2",
@@ -868,12 +942,22 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "Speedy Delivery",
-          "caption": "<p>Bulk orders given in our store will be delivered so fast within the due date mentioned in your order receipt without any time delay or damages</p>"
+          "title": "Speedy Delivery"
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
               "color": "#fff"
             }
           },
@@ -881,6 +965,9 @@
             "Theme"
           ],
           "_name": "content5",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mostly products we offer in our store will be free from damages. If there is any damages on rare cases like leakages (may be due to dropping or mishandling) will be serviced quickly at free of cost for a stipulated period from the date of purchase on showing the valid purchase receipt. ELECTRONIC ITEMS like Fridge, Television, Wet Grinder, Iron Box, Induction Stove, Mixer Grinder also be serviced for free if it comes under the warranty period</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_anchor": "content5-l",
           "_params": {
             "paddingTop": "1",
@@ -900,12 +987,22 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "Service",
-          "caption": "<p>Mostly products we offer in our store will be free from damages. If there is any damages on rare cases like leakages (may be due to dropping or mishandling) will be serviced quickly at free of cost for a stipulated period from the date of purchase on showing the valid purchase receipt. ELECTRONIC ITEMS like Fridge, Television, Wet Grinder, Iron Box, Induction Stove, Mixer Grinder also be serviced for free if it comes under the warranty period</p>"
+          "title": "Service"
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
               "color": "#fff"
             }
           },
@@ -913,6 +1010,9 @@
             "Theme"
           ],
           "_name": "content5",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>One of the most important feature of our store. Friendly customer service before and after buying. Earning Customer's love and Fulfilling their Satisfaction is our motto</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_anchor": "content5-m",
           "_params": {
             "paddingTop": "1",
@@ -932,12 +1032,22 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "Satisfaction",
-          "caption": "<p>One of the most important feature of our store. Friendly customer service before and after buying. Earning Customer's love and Fulfilling their Satisfaction is our motto</p>"
+          "title": "Satisfaction"
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
               "color": "#fff"
             }
           },
@@ -945,6 +1055,9 @@
             "Theme"
           ],
           "_name": "content5",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>We know there's a lot of sufferings and hardwork lies behind each and every single rupee you're paying us. We make sure that, the precious money you pay won't be wasted at any cause by selling worthless products</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_anchor": "content5-n",
           "_params": {
             "paddingTop": "1",
@@ -964,12 +1077,22 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "Value for you money",
-          "caption": "<p>We know there's a lot of sufferings and hardwork lies behind each and every single rupee you're paying us. We make sure that, the precious money you pay won't be wasted at any cause by selling worthless products</p>"
+          "title": "Value for you money"
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
               "color": "#fff"
             }
           },
@@ -977,6 +1100,9 @@
             "Theme"
           ],
           "_name": "content5",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Nothing is waste in this world. You can exchange your old brass, steel, copper, aluminium vessels or scrap at higher rates and you can buy new products. You can also exchange your old and used appliances under attractive exchange offers</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_anchor": "content5-o",
           "_params": {
             "paddingTop": "2",
@@ -996,12 +1122,22 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "Old is Gold",
-          "caption": "<p>Nothing is waste in this world. You can exchange your old brass, steel, copper, aluminium vessels or scrap at higher rates and you can buy new products. You can also exchange your old and used appliances under attractive exchange offers</p>"
+          "title": "Old is Gold"
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
               "color": "#fff"
             }
           },
@@ -1009,6 +1145,9 @@
             "Theme"
           ],
           "_name": "content5",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Lot of offers and discounts in price will be announced in store for bulk purchases and for marriage purchases. Special gifts will be given for marriage purchases</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_anchor": "content5-p",
           "_params": {
             "paddingTop": "2",
@@ -1028,12 +1167,22 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "Memorable Gifts",
-          "caption": "<p>Lot of offers and discounts in price will be announced in store for bulk purchases and for marriage purchases. Special gifts will be given for marriage purchases</p>"
+          "title": "Memorable Gifts"
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
               "color": "#fff"
             }
           },
@@ -1041,6 +1190,9 @@
             "Theme"
           ],
           "_name": "content5",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>The world is moving to digital transaction which has many advantages in it. We accept all major Credit Cards which includes service charges</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_anchor": "content5-q",
           "_params": {
             "paddingTop": "2",
@@ -1060,8 +1212,7 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "Digital Payment",
-          "caption": "<p>The world is moving to digital transaction which has many advantages in it. We accept all major Credit Cards which includes service charges</p>"
+          "title": "Digital Payment"
         },
         {
           "_tags": [
