@@ -205,7 +205,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header2-2\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header6-3\" data-toolbar=\"-mbrBtnMove\">ABOUT US</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/poompuhar-brass-temple-bell-sdl591809686.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -301,6 +301,20 @@
                 "text": "We undertake bulk orders for personal and business needs. We provide LIVE TRACKING SYSTEM for your bulk orders",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.nyw.io/viewer/vbid-c0183-88pawerm\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "SERVICE STATUS",
+                "showText": true,
+                "text": "Have you given any product for service at Sri Vadivelan Stores. You can track the status of your product's service by providing your SRN (Service Reference Number)",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\" \" data-toolbar=\"-mbrBtnMove\">TRACK YOUR SERVICE</a> "
               }
             ],
             "fullScreen": true,
